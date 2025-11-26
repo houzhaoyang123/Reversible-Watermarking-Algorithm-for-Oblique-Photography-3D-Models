@@ -1,0 +1,16 @@
+# OSGBLab OBJ Exporter(www.osgblab.com)
+# create time:2022-08-08 19:03:45
+newmtl Model_0
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd Model_0.jpg
+newmtl Model_1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd Model_1.jpg
